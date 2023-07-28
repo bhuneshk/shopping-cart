@@ -23,8 +23,3 @@ Integrating React, TypeScript and Redux stack alltogether to make a working real
 ~ Hoisted on
 - Vercel
 
-
-### 🔗 Links 
----
-##### See Live Running App on:  [Cart](https://shopping-cart-sable.vercel.app/ "Cart")
-##### See Portfolio Website at: [Portfolio](https://devstardude.web.app/ "Portfolio")
